@@ -7,15 +7,15 @@
 
 👨‍🎓 Computer Science student at Langara College
 
-💻 Web Developer | JavaScript, HTML, CSS enthusiast
+💻 Full-Stack Web Developer | HTML, CSS, JavaScript, TypeScript, Java, NextJS, React, TailwindCSS, Bootstrap, SQL, MongoDB, PostgressSQL, NodeJs and ExpressJs
 
-🌐 Exploring SQL, Node.js, and React
+🌐 Exploring AWS, AI, FramerMotion and Design Patterns
 
-📚 Passionate about continuous learning in web development
+📚 Passionate about building meaningfull software for people all over the world
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I like javascript vanilla
+⚡ Fun fact: I do not think that Java is as bad as people say that is
 
 
 📷 [Instagram](https://www.instagram.com/felipe_moura03) | 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-barros-moura)
