@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-👨‍🎓 **Computer Science student at Langara College**  
+👨‍🎓 **Software Developer | Full-Stack Web Development**  
 
 💻 **Full-Stack Web Developer**  
 Skills: HTML, CSS, JavaScript, TypeScript, Java, React, Next.js, Tailwind CSS, Bootstrap, SQL, PostgreSQL, MongoDB, Node.js, Express.js  
