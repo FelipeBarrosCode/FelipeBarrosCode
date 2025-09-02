@@ -1,21 +1,29 @@
-### Hi there 👋
+### Hi there 👋  
 
+👨‍🎓 **Computer Science student at Langara College**  
 
+💻 **Full-Stack Web Developer**  
+Skills: HTML, CSS, JavaScript, TypeScript, Java, React, Next.js, Tailwind CSS, Bootstrap, SQL, PostgreSQL, MongoDB, Node.js, Express.js  
 
+🧠 **What I’m working on:**  
+- **Concpt** – an AI-powered project blueprint generator leveraging React, Tailwind, React Flow, Express, Redis, Supabase, Stripe, and OpenAI API prompt engineering.  
+- **Course Planning App** – helping students and institutions organize course planning more efficiently.  
+- Applications for the **Langara Computer Science Club**, including the *resource management portal* for **Langara Hacks 2024** (React, Tailwind, Python backend, QR code scanning, protected routes, and improved UX).  
 
+🌐 **Exploring:** AWS · AI & LLM Integration · Framer Motion · Design Patterns · DevOps & CI/CD  
 
+📚 **Passion:** Building meaningful software that makes people’s lives easier and more enjoyable.  
 
-👨‍🎓 Computer Science student at Langara College
+🧑‍🏫 **Community Work:**  
+- Leading **Full Stack workshops** for students.  
+- Serving as a **mentor** at weekly co-working sessions.  
 
-💻 Full-Stack Web Developer | HTML, CSS, JavaScript, TypeScript, Java, NextJS, React, TailwindCSS, Bootstrap, SQL, MongoDB, PostgressSQL, NodeJs and ExpressJs
+😄 **Pronouns:** He/Him  
 
-🌐 Exploring AWS, AI, FramerMotion and Design Patterns
+⚡ **Fun fact:** I don’t think Java is as bad as people say it is 😅  
 
-📚 Passionate about building meaningfull software for people all over the world
+📍 **Based in:** Vancouver, BC, Canada  
+[📍 View on Google Maps](https://www.google.com/maps/place/Vancouver,+BC,+Canada/)  
 
-😄 Pronouns: He/Him
+📷 [Instagram](https://www.instagram.com/felipe_moura03) | 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-barros-moura)  
 
-⚡ Fun fact: I do not think that Java is as bad as people say that is
-
-
-📷 [Instagram](https://www.instagram.com/felipe_moura03) | 🌐 [LinkedIn](https://www.linkedin.com/in/felipe-barros-moura)
